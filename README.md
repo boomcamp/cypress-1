@@ -1,4 +1,5 @@
-### Cypress Challenge
+# Cypress Challenge
+
 Automation testing challenge using cypress.
 
 Prerequisite:
