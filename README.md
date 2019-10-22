@@ -4,7 +4,7 @@ Automation testing challenge using cypress.
 
 Prerequisite:
 
-https://github.com/boomcamp/cypress
+The basics : https://github.com/boomcamp/cypress
 
 ### Instructions
 
