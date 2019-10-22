@@ -1,10 +1,8 @@
 # Cypress Challenge
 
-Automation testing challenge using cypress.
 
-Prerequisite:
+Prerequisite: https://github.com/boomcamp/cypress
 
-The basics : https://github.com/boomcamp/cypress
 
 ### Instructions
 
