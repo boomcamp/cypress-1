@@ -306,4 +306,4 @@ Copy paste the contents from folder `challenge/cypress/integration` then complet
 
 ### Finished 
 
-Open a pull request from your `submission` branch back to the `base` branch of this repository.
+Open a pull request from your `submission` branch back to the `master` branch of this repository.
